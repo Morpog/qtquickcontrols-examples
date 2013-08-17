@@ -43,9 +43,9 @@ import QtQuick.Controls 1.0
 import "content"
 
 ApplicationWindow {
-    width: 800
-    height: 1280
 
+    width: 480
+    height: 854
     Rectangle {
         color: "#212126"
         anchors.fill: parent

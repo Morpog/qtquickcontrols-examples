@@ -71,7 +71,7 @@ QT_BEGIN_NAMESPACE
             qWarning("Error: Your root item has to be a Window."); \
             return -1; \
         } \
-        window->show(); \
+        window->showFullScreen(); \
         return app.exec(); \
     }
 

@@ -72,21 +72,21 @@ Item {
 
         ProgressBar {
             anchors.margins: 20
-            style: touchStyle
+            //style: touchStyle
             width: 400
             value: progress
         }
 
         ProgressBar {
             anchors.margins: 20
-            style: touchStyle
+            //style: touchStyle
             width: 400
             value: 1 - progress
         }
 
         ProgressBar {
             anchors.margins: 20
-            style: touchStyle
+            //style: touchStyle
             value: 1
             width: 400
         }

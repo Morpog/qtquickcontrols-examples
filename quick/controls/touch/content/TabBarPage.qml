@@ -52,7 +52,7 @@ Item {
 
     TabView {
         anchors.fill: parent
-        style: touchStyle
+        //style: touchStyle
         Tab {
             title: "Buttons"
             ButtonPage{ visible: true }

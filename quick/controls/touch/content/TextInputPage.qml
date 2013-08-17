@@ -73,13 +73,13 @@ Item {
         TextField {
             anchors.margins: 20
             text: "Text input"
-            style: touchStyle
+            //style: touchStyle
         }
 
         TextField {
             anchors.margins: 20
             text: "Readonly Text input"
-            style: touchStyle
+            //style: touchStyle
             readOnly: true
         }
     }
